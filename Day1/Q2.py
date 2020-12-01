@@ -1,5 +1,5 @@
-# Same as Q2 but with three elements instead of two
-# A lot trickier, can use three pointer technique
+# Same as Q1 but with three elements instead of two
+# Trickier, can use three pointer technique
 # Need sorted list
 # First pointer is at i, index of iterating the list
 # Second pointer is i+1, the left pointer
